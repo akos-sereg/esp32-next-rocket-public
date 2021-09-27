@@ -1,7 +1,10 @@
-# esp32-next-rocket
+# esp32-next-rocket-public
 
 ESP32 based device that displays the next Space X rocket launch date. It also starts
 a countdown at T-90 minutes.
+
+Physical device that is using this code:
+https://www.hackster.io/akossereg/spacex-launch-countdown-display-cde7c2
 
 ## Hardware Components
 
